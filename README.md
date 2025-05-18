@@ -1,5 +1,6 @@
 //Created by Jacob Graham. 
 
+1.)CreateFreeLinVMInSameRegionAsSub.bicep
 What it does: Creates an Ubuntu 22.04 VM in the free tier, in the same region your subscription is in without a public IP. 
 
 Why I created this: When you create a VM using the free services it always adds a public IP by default which isn't free.  I also add good comments. 
@@ -13,3 +14,4 @@ az deployment group create \
       adminUsername=YourUsername \
       adminPassword='YourPassword'
 
+///////////////////////////////////////////////////////////////////////////
