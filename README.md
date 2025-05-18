@@ -25,7 +25,7 @@ Does the same thing as the non extra one but adds commented-out switches for:
 - Custom VM size
 - Boot diagnostics
 - Custom script/OS extensions
-- Resource tags
+
 
 Each has clear comments on how to uncomment and configure. 
 
