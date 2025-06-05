@@ -1,6 +1,6 @@
 //Created by Jacob Graham. 
 
-Template 1.)CreateFreeLinVMInSameRegionAsSub.bicep
+Template 1.) CreateFreeLinVMInSameRegionAsSub.bicep
 
 What it does: Creates an Ubuntu 22.04 VM in the free tier, in the same region your subscription is in without a public IP. 
 
